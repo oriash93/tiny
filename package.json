@@ -1,0 +1,16 @@
+{
+    "name": "@oriash93/tiny",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npm/oriash93/tiny.git"
+    },
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package"
+    ]
+}
